@@ -30,10 +30,10 @@ namespace Addition2
             //Console.WriteLine("Risultato: " + divisionResult);
 
             // sommare i numeri inseriti dall'utente
-            int summ = number + number2;
+            int summResult = number + number2;
 
             // eseguire il risultato
-            Console.WriteLine($"Risultato di {number} + {number2}: {summ}");
+            Console.WriteLine($"Risultato di {number} + {number2}: {summResult}");
             Console.ReadKey();
 
 
